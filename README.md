@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/lucashm001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashm001&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashm001&layout=compact&langs_count=7&theme=blank"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashm001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashm001&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   ##
 
 <div align="center">
-  <a href="https://www.youtube.com/" target="_dark"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://lucashm001.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
